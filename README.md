@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Caitlyn
 - 👀 I’m interested in AI, especially in the area of intelligent machines and ethics, and the implication of creating 'thinking' machines
-- I am just starting in computing and programming, so currently just learning the basics
-- Coding Languages known thus far: Java
+- I am halfway through my Bachelors degree in IT, Majoring in AI and Minoring in Cybersecurity
+- Coding Languages known thus far: Java, HTML, CSS, JavaScript
+- Coding Languages currently learning: Python
 
 
 <!---
