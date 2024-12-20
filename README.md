@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Caitlyn
+- 👋 Hi, I’m Caitlyn (Ch1maera for all cybersec things)
 - 👀 I’m interested in AI, especially in the area of intelligent machines and ethics, and the implication of creating 'thinking' machines
 - I am halfway through my Bachelors degree in IT, Majoring in AI and Minoring in Cybersecurity
 - Coding Languages known thus far: Java, HTML, CSS, JavaScript and Python
