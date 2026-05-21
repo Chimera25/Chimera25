@@ -2,6 +2,7 @@
 
 I've recently graduated from my Bachelors in IT majoring in Cyber Security. 
 Currently looking for work in the cyberspace, especially under Penetration Testing (specialising in AI prompt engineering) and Threat Intelligence. 
+
 Langauges: 
 - Python
 - Java
