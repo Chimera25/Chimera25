@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Caitlyn
-- I am halfway through my Bachelors degree in IT, Majoring in Cybersecurity
-- Coding Languages known thus far: Java, HTML, CSS, JavaScript and Python
-- Currently interested in learning: CTF's/Cybersecurity Practices
+👋 Hi, I’m Caitlyn
 
+I've recently graduated from my Bachelors in IT majoring in Cyber Security. 
+Currently looking for work in the cyberspace, especially under Penetration Testing (specialising in AI prompt engineering) and Threat Intelligence. 
+Langauges: 
+- Python
+- Java
+- Web suite (HTML/CSS/JS)
+
+Still playing CTF's, although not as consistently as I wish to.
+Hoping to eventually get around to creating my website (which will be available here when its done)
 
 <!---
 Chimera25/Chimera25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
